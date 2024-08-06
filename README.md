@@ -1,0 +1,2 @@
+# MPC_CBF_Safe_Navigation_Multiple_Robots
+Implemented Model Predictive Controller from scratch
